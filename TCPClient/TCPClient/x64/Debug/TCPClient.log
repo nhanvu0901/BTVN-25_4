@@ -1,0 +1,3 @@
+﻿  TCPClient.cpp
+D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN 25_4\TCPClient\TCPClient\TCPClient.cpp(48,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCPClient.vcxproj -> D:\Visual studio 2022\C and C++\Lập trình mạng\BTVN 25_4\TCPClient\x64\Debug\TCPClient.exe

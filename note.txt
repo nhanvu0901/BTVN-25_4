@@ -1,0 +1,14 @@
+FILE* f = fopen("D:\\Visual studio 2022\\C and C++\\Lập trình mạng\\BTVN 25_4\\helloText.txt", "rb");
+
+
+
+client:
++kết nối đến máy chủ
++nhận câu chào từ server
++nhập lệnh từ bàn phím và gửi sang cho server
+
+
+server
++gửi câu chào chứa trong một tệp tin cho client
++nhận kí tự từ client 
++ghi toàn bộ tin gửi từ client sang một tệp tin khác
